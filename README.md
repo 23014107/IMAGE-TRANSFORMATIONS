@@ -88,30 +88,21 @@ cv2_imshow(cropped)
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+<br><img width="432" height="535" alt="image" src="https://github.com/user-attachments/assets/c5dadf01-d846-45d1-bc25-898765146341" />
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
+<br><img width="436" height="546" alt="image" src="https://github.com/user-attachments/assets/634dbc7f-e6b0-483d-b34a-819801349e88" />
+
 
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
+<br><img width="637" height="407" alt="Screenshot 2025-10-01 181104" src="https://github.com/user-attachments/assets/99ba5949-1f57-4a8a-bf8b-6e98ff27ddeb" />
+
 
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
+<br><img width="625" height="477" alt="image" src="https://github.com/user-attachments/assets/f593def7-7560-4fd8-8eb9-f5cfddd3880d" />
+
 
 
 
