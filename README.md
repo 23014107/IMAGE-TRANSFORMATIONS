@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+# Name : RAMYA.P
+# Register Number: 212223240137
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -35,13 +36,13 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By: RAMYA.P
+Register Number: 212223240137
 
 import cv2
 import numpy as np
 # Load the image
-image = cv2.imread('/content/ramya photo.jpg') # Replace with your image path
+image = cv2.imread('/content/Screenshot 2025-10-01 181914.png') # Replace with your image path
 (h, w) = image.shape[:2]
 # ----------------------- Translation -----------------------
 # Move image 100 pixels right and 50 pixels down
@@ -87,38 +88,18 @@ cv2_imshow(cropped)
 
 ```
 ## Output:
-### i)Image Translation
-<br><img width="432" height="535" alt="image" src="https://github.com/user-attachments/assets/c5dadf01-d846-45d1-bc25-898765146341" />
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/902f1605-bf7d-40d8-8980-d4c67c7e5a20" />
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/f8d7e927-1d12-4051-9f17-e7d229defe2f" />
 
-### ii) Image Scaling
-<br><img width="436" height="546" alt="image" src="https://github.com/user-attachments/assets/634dbc7f-e6b0-483d-b34a-819801349e88" />
+<img width="1395" height="399" alt="image" src="https://github.com/user-attachments/assets/9a87ec73-cfaf-44ef-baf4-d85ac4aa51be" />
+<img width="1196" height="532" alt="image" src="https://github.com/user-attachments/assets/02609c66-c87a-41ff-b31f-d11198e2b0f6" />
 
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/d77f798c-a8b9-4bd7-a3be-989311634368" />
 
-
-### iii)Image shearing
-<br><img width="637" height="407" alt="Screenshot 2025-10-01 181104" src="https://github.com/user-attachments/assets/99ba5949-1f57-4a8a-bf8b-6e98ff27ddeb" />
-
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/0d7ebb3e-df5d-428c-ab51-d302112a6325" />
 
 
-### iv)Image Reflection
-<br><img width="625" height="477" alt="image" src="https://github.com/user-attachments/assets/f593def7-7560-4fd8-8eb9-f5cfddd3880d" />
-
-
-
-
-### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
-
-
-
-### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/793bc580-6a7d-475d-a855-b1c119b86215" />
 
 
 
